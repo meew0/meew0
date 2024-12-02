@@ -6,4 +6,4 @@ In the past I used to be really active in the Discord API community, and many of
 
 If you would like to contact me, feel free to send an email to my most recent git committer email address. I make no promises about responding, though. You can also ping me on [fedi](https://iscute.moe/meew0).
 
-My profile picture is my own work, although parts of it are traced from various frames of the [To Your Eternity](https://en.wikipedia.org/wiki/To_Your_Eternity) anime. The composition and colouring is my own.
+My profile picture is a combination of my own artwork and elements traced from various frames of the [To Your Eternity](https://en.wikipedia.org/wiki/To_Your_Eternity) anime.
